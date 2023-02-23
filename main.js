@@ -1,5 +1,7 @@
 um teste de git
 
-adicionando commits
+(1)adicionando commits
 
-cara esse lance de commits é complicado
+(2)cara esse lance de commits é complicado
+
+(3) acho que to errando mas vamo ver
