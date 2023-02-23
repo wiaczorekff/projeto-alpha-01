@@ -7,3 +7,5 @@ um teste de git
 (3) acho que to errando mas vamo ver
 
 (4) peguei o commit fds
+
+(5) agora eu saquei o commit
